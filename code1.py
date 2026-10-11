@@ -6,3 +6,6 @@ print(b)
 
 c = 4 - 2
 print(c)
+
+d = 8 / 4
+print(d)
